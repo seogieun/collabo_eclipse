@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kosno
+ *
+ */
+module park {
+}
